@@ -52,7 +52,7 @@ body {
     align-items: center;
     justify-content: center;
     
-    background: url("/Catstronauts/webdev_c1_knowcheck_01/img/NASAmoon.jpg") center center no-repeat;
+    background: url("https://spaceplace.nasa.gov/review/all-about-the-moon/the-moon-near-side.en.jpg") center center no-repeat;
     background-size: cover;
     height: 80vh;
     padding: 0;
